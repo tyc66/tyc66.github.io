@@ -1,6 +1,6 @@
 {
-  "name": "cname",
+  "name": "index.html",
   "tagline": "",
-  "body": "tyc.com",
+  "body": "\r\n<html>\r\n<head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" name=\"keywords\" content=\"\" />\r\n<meta name=\"description\" content=\"\">\r\n<title></title>\r\n</head>\r\n<body>\r\n\r\n\t\t<table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"100\">\r\n\t\t\t<tr>\r\n\t\t\t\t<td>\r\n\t\t\t\t<p align=\"center\">\r\n\r\n\t\t<a href=\"http://www-tyc.com/\">\r\n\t\t\t\t<font style=\"font-size: 15pt\" color=\"#FF0000\">请点击继续访问</font></a>\r\n\r\n\t\t\t\t</td>\r\n\t\t\t</tr>\r\n\t\t</table>\r\n&nbsp;\r\n\r\n</body>\r\n</html>",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
